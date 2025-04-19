@@ -1,4 +1,4 @@
-# VLSI_suport
+# VLSI_support
 Repositório de Suporte para desenvolvimento de Projetos VLSI
 
 
